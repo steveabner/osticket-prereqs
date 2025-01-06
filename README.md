@@ -145,5 +145,16 @@ For this section, I downloaded a zip file that contains all the required install
 <Details>
   <Summary>📁 Create the directory C:\PHP</Summary>
 
-  
+- Open File Explorer, click `This PC`, then open `C drive`
+
+  ![2025-01-06 14_09_29-Window](https://github.com/user-attachments/assets/785f1ad6-7931-46ce-b026-526921761006)
+
+- In the C drive, right-click, go to `New`, and then select `Folder`
+
+  ![2025-01-06 14_11_11-Window](https://github.com/user-attachments/assets/b280dd59-00fc-4ddf-8388-e1f0bbb56e99)
+
+- Name the folder `PHP`
+
+  ![2025-01-06 14_14_06-Window](https://github.com/user-attachments/assets/d1eeb1aa-5391-4d4a-84d2-6853a14754ea)
+
 </Details>
