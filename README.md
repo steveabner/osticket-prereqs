@@ -84,3 +84,36 @@ This project involves configuring all the prerequisites and installing osTicket.
 
 </details>
 
+<details>
+  <summary>Connect to the VM via RDP</summary>
+
+- Now that the VM has been created, I'll connect to it using RDP. To do this, I need the Public IP Address. In the Azure Portal, navigate to Virtual Machines, select `osticket-vm`, and copy the Public IP Address.
+
+  ![2025-01-06 12_47_24-Window](https://github.com/user-attachments/assets/0acc73fc-c07d-412f-a6ad-708f9902ab3a)
+
+- On my Host Machine, I'll click `Start` and type `Remote Desktop`, then click `Remote Desktop Connection`.
+
+ - I'll click `Show Options`, input the IP Address and username, then click `Connect`.
+
+  ![2025-01-06 12_56_43-Window](https://github.com/user-attachments/assets/4999dad2-8aee-4acb-867d-769651b2696e)
+
+- Input the password and click `OK`
+
+  ![2025-01-06 12_58_55-Window](https://github.com/user-attachments/assets/1042ae72-10b6-43e7-b60e-af909c1fb8e2)
+
+- Click `Yes` to trust the certificate.
+
+  ![2025-01-06 12_59_17-Window](https://github.com/user-attachments/assets/c66072ec-cea3-4d64-aed9-45d87627e9cd)
+
+- I'm now logged into the VM
+
+  ![2025-01-06 13_02_47-Window](https://github.com/user-attachments/assets/f1eeecb0-1463-424c-99fd-918f923e5895)
+
+
+
+</details>
+## 🎫 osTicket Installation Steps
+
+<details>
+  <summary>Configure ISS</summary>
+</details>
