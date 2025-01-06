@@ -74,7 +74,7 @@ This project involves configuring all the prerequisites and installing osTicket.
 
   ![2025-01-06 12_11_35-Window](https://github.com/user-attachments/assets/0425cced-59c7-4604-a743-b7d2526b8e1e)
 
-- Input a Administrator Username and password, agree to the licensing, and click `Review + Create`. Everything else will be set to default.
+- Enter an Administrator username and password, agree to the licensing terms, and leave all other settings, such as disk, network, and others, at their default values. Click Review + Create, then click Create.
 
 ![2025-01-06 12_16_13-Window](https://github.com/user-attachments/assets/b3c8c8b5-fd4d-40b9-8d3b-bf2641681533)
 
