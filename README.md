@@ -41,7 +41,7 @@ This project involves configuring all the prerequisites and installing osTicket.
 
 - I'll select my Azure subscription and name the Resource Group `rg-osticket`, set the Region to `East US 2`, then click `Review + Create`.
 
-  ![2025-01-06 11_27_08-Window](https://github.com/user-attachments/assets/7e393428-fa95-46bf-a718-bf5b59a4c173)
+  ![2025-01-06 11_27_08-Window](https://github.com/user-attachments/assets/96334a91-91c2-4102-8893-b89c0442ec91)
 
 - And finally, click `Create` again.
 
