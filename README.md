@@ -112,7 +112,7 @@ This project involves configuring all the prerequisites and installing osTicket.
 </details>
 
 ## 🎫 osTicket Installation Steps
-The installation files used in this project can be found <a href="https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD" target="_blank">here</a>
+For this section, I have downloaded a zip file that contains all the installation files required for osTicket, The installation zip can be found <a href="https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD" target="_blank">here</a>
 
 <details>
   <summary>⚙️ Configure ISS</summary>
