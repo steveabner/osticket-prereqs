@@ -58,11 +58,11 @@ This project involves configuring all the prerequisites and installing osTicket.
 
   ![2025-01-06 11_58_58-Window](https://github.com/user-attachments/assets/7b49b5b6-0448-48ad-9a98-740b48903939)
 
-- On the Virtual Machine page, I'll click `Create` and select `Azure Virtual Machine` on the top-left.
+- On the Virtual Machine page, I'll click `Create` on the top-left, then select `Azure Virtual Machine`.
 
   ![2025-01-06 12_01_45-Window](https://github.com/user-attachments/assets/62e95754-35bc-4334-ab1b-651e15280ebd)
 
-- On the create page, I'll select the Resource Group that I just created `rg-osticket` and name the VM `osticket-vm`.
+- On the create page, I'll select the Resource Group that I just created `rg-osticket`, and name the VM `osticket-vm`.
 
   ![2025-01-06 12_06_24-Window](https://github.com/user-attachments/assets/ae2eb56f-68f8-47bc-83ca-92dad2c922fe)
 
@@ -70,14 +70,17 @@ This project involves configuring all the prerequisites and installing osTicket.
 
   ![2025-01-06 12_09_44-Window](https://github.com/user-attachments/assets/5feef9a2-d693-4c2e-9dc9-8e02fc450eb1)
 
-- Then I'll select `Standard_D2s_v4 - 2vcpus, 8 GiB memory` as the VM size
+- Then I'll select `Standard_D2s_v4 - 2vcpus, 8 GiB memory` as the VM size.
 
   ![2025-01-06 12_11_35-Window](https://github.com/user-attachments/assets/0425cced-59c7-4604-a743-b7d2526b8e1e)
 
-- Enter an Administrator username and password, agree to the licensing terms, and leave all other settings, such as disk, network, and others, at their default values. Click Review + Create, then click Create.
+- Enter a username and password, agree to the licensing terms, and leave all other settings, such as disk, network, and others, at their default values. Click `Review + Create`, then click `Create`.
 
-![2025-01-06 12_16_13-Window](https://github.com/user-attachments/assets/b3c8c8b5-fd4d-40b9-8d3b-bf2641681533)
+  ![2025-01-06 12_16_13-Window](https://github.com/user-attachments/assets/b3c8c8b5-fd4d-40b9-8d3b-bf2641681533)
 
+- The VM has been created.
+
+  ![2025-01-06 12_26_01-Window](https://github.com/user-attachments/assets/a14f14e0-09e8-47dc-a43b-1b3aeee4de06)
 
 </details>
 
