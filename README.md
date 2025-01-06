@@ -251,7 +251,51 @@ For this section, I downloaded a zip file that contains all the required install
 </details>
 
 <details>
-  <summary>7️⃣ ⚙️ Install osTicket</summary>
+  <summary>7️⃣ ⚙️ Install HeidiSQL</summary>
+
+- Within the installation folder, I'll open `HeidiSQL_12.3.0.6589_Setup`
+
+  ![2025-01-06 17_12_39-Window](https://github.com/user-attachments/assets/a6503e62-731b-4b87-862a-199c93fcb382)
+
+- Click `I Accept`, then click `Next`
+
+  ![2025-01-06 17_13_54-Window](https://github.com/user-attachments/assets/18f1feb3-4e66-4222-9bbd-90cdcb9f16c8)
+
+- Click `Next`, `Next`, `Install`
+
+  ![2025-01-06 17_15_57-Window](https://github.com/user-attachments/assets/e45fd4c6-532e-4fa1-9927-897a54709fdc)
+
+- Then click `Finish`
+
+  ![2025-01-06 17_16_17-Window](https://github.com/user-attachments/assets/c3a9988c-e714-4574-9f6c-12aa68f77f97)
+
+- Open HeidiSQL, then click `Skip`
+
+  ![2025-01-06 17_18_21-Window](https://github.com/user-attachments/assets/852e7118-1870-40fe-b949-603374011510)
+
+- Click `New` at the bottom left
+
+  ![2025-01-06 17_19_09-Window](https://github.com/user-attachments/assets/ab63332c-5cb4-4e9c-ac1e-d022bd75e834)
+
+- I'll input the username and password I set up when installing MySQL, then click `Open`
+
+  ![2025-01-06 17_20_30-Window](https://github.com/user-attachments/assets/2b339c13-340a-40c0-98de-cb86150f8f01)
+
+- Now I'll create a database called `osTicket`.  Right-click `Unnamed` go to `Create New`, then click `Database`, I'll name it `osTicket`, then click `OK`
+
+  ![2025-01-06 17_32_22-Window](https://github.com/user-attachments/assets/c77380fe-38ab-4985-9e75-981d78be699f)
+  ![2025-01-06 17_34_41-Window](https://github.com/user-attachments/assets/f9d5f997-e38e-43cf-a3ab-0d4f2e5d1e2d)
+
+- 
+
+
+
+</details>
+
+
+
+<details>
+  <summary>8️⃣ ⚙️ Install osTicket</summary>
 
 - Within the installation folder, I'll extract `osTicket-v1.15.8`, then open the folder.
 
@@ -275,5 +319,86 @@ For this section, I downloaded a zip file that contains all the required install
   ![2025-01-06 15_51_12-Window](https://github.com/user-attachments/assets/79d3328b-2c42-4a29-b63f-352ceee690c7)
   ![2025-01-06 15_50_49-Window](https://github.com/user-attachments/assets/d16cf2a8-273e-4b9a-abd1-fdb39d807838)
 
+### Confirm the osTicket Site loads
+
+- Within the IIS Manager, I'll expand `osticket-vm` -> `Sites` -> `Default Web Site`. Click `osTicket` then click `Browse *:80 (HTTP)` in the right pane.
+
+  ![2025-01-06 16_22_01-Window](https://github.com/user-attachments/assets/b3a4bff3-8ab9-4d0c-ada2-36a3e292d4a7)
+
+- The osTicket Website has loaded successfully!
+
+  ![2025-01-06 16_23_38-Window](https://github.com/user-attachments/assets/487396d3-17a7-421f-aab9-897234d15d5b)
+
+- Notice that some extensions are not enabled, I will do that next.
+
+  ![2025-01-06 16_27_01-Window](https://github.com/user-attachments/assets/06259e65-09af-4aac-8047-044019d80451)
+
+- Open IIS Manager, go to `Sites`, `Default Web Site`, `osTicket`, then open `PHP Manager`.
+
+  ![2025-01-06 16_29_21-Window](https://github.com/user-attachments/assets/6dcdbbef-b504-4790-8039-4c3c69732ecb)
+
+- Within PHP Manager, Click `Enable or disable an extension`
+
+  ![2025-01-06 16_31_05-Window](https://github.com/user-attachments/assets/acb166d7-74f6-4d7b-9765-f9f9f03846de)
+
+- I'll right-click and enable the following:
+  - php_imap.dll
+  - php_intl.dll
+  - php_opcache.dll
+
+  ![2025-01-06 16_34_57-Window](https://github.com/user-attachments/assets/9f098179-b46f-47ec-950c-e3b187c212ee)
+
+### Rename ost-sampleconfig.php
+
+- I'll browse to `C:\` -> `inetpub` -> `wwwroot` -> `osTicket` -> `include`
+
+  ![2025-01-06 16_42_52-Window](https://github.com/user-attachments/assets/cc55a877-4947-4e8a-b885-3a5b86c24cef)
+
+- In the `include` folder, I'll find `ost-sampleconfig.php` and rename is to `ost-config.php`
+
+  ![2025-01-06 16_44_23-Window](https://github.com/user-attachments/assets/28ec1b47-836f-409d-83cd-d32ae1331aab)
+
+### Give osTicket permission to access the file
+
+- Right-click `ost-config.php` and select properties.
+
+  ![2025-01-06 16_50_24-Window](https://github.com/user-attachments/assets/69ff9c01-c32b-4edb-8f5d-7a4b74994ba8)
+
+- Click the `Security` tab, then click `Advanced`
+
+  ![2025-01-06 16_51_28-Window](https://github.com/user-attachments/assets/b1e0ccd2-b178-4a37-b150-5d1269e786d6)
+
+- I will click `Disable inheritance`, then click `Remove all inherited permissions from this object`
+
+  ![2025-01-06 16_53_42-Window](https://github.com/user-attachments/assets/61742b1c-6add-479a-bd9d-eac8ef9e9028)
+  ![2025-01-06 16_54_36-Window](https://github.com/user-attachments/assets/19e76ab4-933c-42b9-a221-5eb7a5cb6a7e)
+
+- Next, I'll click `Add`
+
+  ![2025-01-06 16_56_12-Window](https://github.com/user-attachments/assets/06a5eb14-4407-4000-8129-0b8dfb57df74)
+
+- Click `Select a principal`
+
+  ![2025-01-06 16_57_17-Window](https://github.com/user-attachments/assets/52280ac8-2425-4a0a-81ce-67c89e1d46f0)
+
+- I'll input `everyone`, click `Check Names`, then click `OK`
+
+  ![2025-01-06 17_00_54-Window](https://github.com/user-attachments/assets/6e171555-58b7-4edf-9047-a689f679bb81)
+
+- Check `Full Control`, then click `OK`
+
+  ![2025-01-06 17_02_01-Window](https://github.com/user-attachments/assets/8eae278d-bb1f-4e2c-9a2a-f9b4308cc9d6)
+
+- Click `Apply`, `OK`, then `OK` again.
+
+  ![2025-01-06 17_02_48-Window](https://github.com/user-attachments/assets/ac474b5a-62b3-49fc-9080-30a5c1db1d90)
+
+### Continue osTicket setup
+
+- I'll go back to the osTicket website and click `Continute`
+
+  ![2025-01-06 17_04_49-Window](https://github.com/user-attachments/assets/ed7bebfe-9605-418c-9d35-b3e11bf0b337)
+
+- I'll fill out the information
 
 </details>
