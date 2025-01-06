@@ -397,6 +397,16 @@ For this section, I downloaded a zip file that contains all the required install
 
   ![2025-01-06 17_04_49-Window](https://github.com/user-attachments/assets/ed7bebfe-9605-418c-9d35-b3e11bf0b337)
 
-- I'll fill out the information
+- I'll fill out the information and input my usernames and password, then click `Install`
+
+  ![2025-01-06 17_40_37-Window](https://github.com/user-attachments/assets/c7e91187-0f5b-4352-b853-4837b6e6b9f3)
+
+- When complete, I'll get a `Congratulations!` window.
+
+  ![2025-01-06 17_41_53-Window](https://github.com/user-attachments/assets/817dce73-867b-4e03-a843-2715948fa083)
+
+## ✅ Installation Complete!
+
+- This wraps up my osTicket Prerequisites and Installation project!
 
 </details>
