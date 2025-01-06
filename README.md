@@ -178,7 +178,7 @@ For this section, I downloaded a zip file that contains all the required install
 </details>
 
 <details>
-  <summary>⚙️ MySQL</summary>
+  <summary>⚙️ Install MySQL</summary>
 
 - Within the installation folder, I'll open `mysql-5.5.62-win32`
 
