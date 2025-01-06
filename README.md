@@ -125,6 +125,8 @@ For this section, I downloaded a zip file that contains all the required install
 
   ![2025-01-06 13_33_08-Window](https://github.com/user-attachments/assets/03eb17c6-727b-4b31-83a0-636b65e0c3e8)
 
+</details>
+
 <details>
   <summary>⚙️ Install PHP Manager & Rewrite Module</summary>
 </details>
@@ -140,8 +142,3 @@ For this section, I downloaded a zip file that contains all the required install
 
 </details>
 
-
-
-
-  
-</details>
