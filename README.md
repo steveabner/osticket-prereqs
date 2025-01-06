@@ -189,16 +189,16 @@ For this section, I downloaded a zip file that contains all the required install
   ![2025-01-06 14_44_02-Window](https://github.com/user-attachments/assets/a80b0304-82d2-420e-a83a-890bd8b42f72)
   ![2025-01-06 14_44_18-Window](https://github.com/user-attachments/assets/b528ef12-431a-4bae-a044-7032a60c2f47)
 
-- Choose `Typical` then click `Install`
+- Choose `Typical`, click `Next`, then click `Install`
 
   ![2025-01-06 14_46_14-Window](https://github.com/user-attachments/assets/81d713cb-19dd-4958-8e4e-956fdd5d4644)
   ![2025-01-06 14_46_26-Window](https://github.com/user-attachments/assets/e621a60d-18be-439a-ba92-1417531c0c3b)
 
-- I'll choose to launch the configuration wizard, click `Finish`
+- I'll choose to launch the configuration wizard, then click `Finish`
 
   ![2025-01-06 14_47_24-Window](https://github.com/user-attachments/assets/37361e27-0403-40ea-aa9f-fe0359b9a0bc)
 
-- When the installation wizard opens, click `Next`, then choose `Stand Configuration`, then click `Next`
+- When the installation wizard opens, click `Next`, then choose `Standard Configuration`, then click `Next`
 
   ![2025-01-06 14_49_17-Window](https://github.com/user-attachments/assets/2a6f5fdf-ace6-4698-8ceb-ed7916ace04f)
   ![2025-01-06 14_49_32-Window](https://github.com/user-attachments/assets/e8611aa6-626e-41f3-97aa-5c9e7e38b8fa)
