@@ -85,7 +85,7 @@ This project involves configuring all the prerequisites and installing osTicket.
 </details>
 
 <details>
-  <summary>Connect to the VM via RDP</summary>
+  <summary>💻 Connect to the VM via RDP</summary>
 
 - Now that the VM has been created, I'll connect to it using RDP. To do this, I need the Public IP Address. In the Azure Portal, navigate to Virtual Machines, select `osticket-vm`, and copy the Public IP Address.
 
