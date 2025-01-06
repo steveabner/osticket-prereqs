@@ -253,46 +253,44 @@ For this section, I downloaded a zip file that contains all the required install
 <details>
   <summary>7️⃣ ⚙️ Install HeidiSQL</summary>
 
-- Within the installation folder, I'll open `HeidiSQL_12.3.0.6589_Setup`
+- Within the installation folder, I'll open `HeidiSQL_12.3.0.6589_Setup`.
 
   ![2025-01-06 17_12_39-Window](https://github.com/user-attachments/assets/a6503e62-731b-4b87-862a-199c93fcb382)
 
-- Click `I Accept`, then click `Next`
+- Click `I Accept`, then click `Next`.
 
   ![2025-01-06 17_13_54-Window](https://github.com/user-attachments/assets/18f1feb3-4e66-4222-9bbd-90cdcb9f16c8)
 
-- Click `Next`, `Next`, `Install`
+- Click `Next`, `Next`, `Install`.
 
   ![2025-01-06 17_15_57-Window](https://github.com/user-attachments/assets/e45fd4c6-532e-4fa1-9927-897a54709fdc)
 
-- Then click `Finish`
+- Then click `Finish`.
 
   ![2025-01-06 17_16_17-Window](https://github.com/user-attachments/assets/c3a9988c-e714-4574-9f6c-12aa68f77f97)
 
-- Open HeidiSQL, then click `Skip`
+- Open HeidiSQL, then click `Skip`.
 
   ![2025-01-06 17_18_21-Window](https://github.com/user-attachments/assets/852e7118-1870-40fe-b949-603374011510)
 
-- Click `New` at the bottom left
+- Click `New` at the bottom left.
 
   ![2025-01-06 17_19_09-Window](https://github.com/user-attachments/assets/ab63332c-5cb4-4e9c-ac1e-d022bd75e834)
 
-- I'll input the username and password I set up when installing MySQL, then click `Open`
+- I'll input the username and password I set up when installing MySQL, then click `Open`.
 
   ![2025-01-06 17_20_30-Window](https://github.com/user-attachments/assets/2b339c13-340a-40c0-98de-cb86150f8f01)
 
-- Now I'll create a database called `osTicket`.  Right-click `Unnamed` go to `Create New`, then click `Database`, I'll name it `osTicket`, then click `OK`
+- Now I'll create a database called `osTicket`.  Right-click `Unnamed` go to `Create New`, then click `Database`, I'll name it `osTicket`, then click `OK`.
 
   ![2025-01-06 17_32_22-Window](https://github.com/user-attachments/assets/c77380fe-38ab-4985-9e75-981d78be699f)
-  ![2025-01-06 17_34_41-Window](https://github.com/user-attachments/assets/f9d5f997-e38e-43cf-a3ab-0d4f2e5d1e2d)
+  ![2025-01-06 17_33_42-Window](https://github.com/user-attachments/assets/a4e053a9-5f36-46af-ac9d-07c8e91a740c)
+  
+- The osTicket database has been created.
 
-- 
-
-
+  ![2025-01-06 17_34_41-Window](https://github.com/user-attachments/assets/13390e02-1855-46d0-a900-27f93d688802)
 
 </details>
-
-
 
 <details>
   <summary>8️⃣ ⚙️ Install osTicket</summary>
