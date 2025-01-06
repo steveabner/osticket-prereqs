@@ -142,3 +142,8 @@ For this section, I downloaded a zip file that contains all the required install
 
 </details>
 
+<Details>
+  <Summary>Create the directory C:\PHP</Summary>
+
+  
+</Details>
