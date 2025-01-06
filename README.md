@@ -157,4 +157,11 @@ For this section, I downloaded a zip file that contains all the required install
 
   ![2025-01-06 14_14_06-Window](https://github.com/user-attachments/assets/d1eeb1aa-5391-4d4a-84d2-6853a14754ea)
 
+- Within the installation folder, I'll right-click the `php-7.3.8-nts-Win32-VC15-x86` folder, then select `Extract All`. I'll set the destination folder to `C:\PHP` then click `Extract`
+
+  ![2025-01-06 14_19_45-Window](https://github.com/user-attachments/assets/23f3e116-faf3-41df-944b-8e3ded955bdd)
+  ![2025-01-06 14_22_18-Window](https://github.com/user-attachments/assets/90998ab4-b60a-47c6-aa60-81588fa2ff13)
+
+
+
 </Details>
