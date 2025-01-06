@@ -4,6 +4,7 @@
 
 <h1>osTicket - Prerequisites and Installation</h1>
 This project involves configuring all the prerequisites and installing osTicket. The setup was completed on a Windows 10 Virtual Machine that I created in Azure.<br />
+- You can find the installation files use in this project <a href= https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD>here</a>
 
 <h2>Environments and Technologies Used</h2>
 
@@ -28,5 +29,3 @@ This project involves configuring all the prerequisites and installing osTicket.
 
 <h2>Installation Steps</h2>
 <p>
-Once the Windows 10 VM has been set up in Azure, log into the machine with your credentials. It is best to create a notepad and save a copy of any credentials used along the way for this lab, as there'll be many.
-Within the VM, open the Microsoft Edge web browser and download the osTicket Installation Files <a href= https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD>HERE</a>. Extract the files and you should see the following.
