@@ -175,6 +175,46 @@ For this section, I downloaded a zip file that contains all the required install
 
   ![2025-01-06 14_34_29-Window](https://github.com/user-attachments/assets/26f9fb45-7eb2-45a5-87ef-bb48a86407ab)
 
+</details>
+
+<details>
+  <summary>⚙️ MySQL</summary>
+
+- Within the installation folder, I'll open `mysql-5.5.62-win32`
+
+  ![2025-01-06 14_43_12-Window](https://github.com/user-attachments/assets/b44b6d54-d974-4e0c-9066-e9f9bf3d05ab)
+
+- Click `Next`, then check `I accept`, then click `Next` again.
+
+  ![2025-01-06 14_44_02-Window](https://github.com/user-attachments/assets/a80b0304-82d2-420e-a83a-890bd8b42f72)
+  ![2025-01-06 14_44_18-Window](https://github.com/user-attachments/assets/b528ef12-431a-4bae-a044-7032a60c2f47)
+
+- Choose `Typical` then click `Install`
+
+  ![2025-01-06 14_46_14-Window](https://github.com/user-attachments/assets/81d713cb-19dd-4958-8e4e-956fdd5d4644)
+  ![2025-01-06 14_46_26-Window](https://github.com/user-attachments/assets/e621a60d-18be-439a-ba92-1417531c0c3b)
+
+- I'll choose to launch the configuration wizard, click `Finish`
+
+  ![2025-01-06 14_47_24-Window](https://github.com/user-attachments/assets/37361e27-0403-40ea-aa9f-fe0359b9a0bc)
+
+- When the installation wizard appears, click `Next`, then choose `Stand Configuration`, then click `Next`
+
+  ![2025-01-06 14_49_17-Window](https://github.com/user-attachments/assets/2a6f5fdf-ace6-4698-8ceb-ed7916ace04f)
+  ![2025-01-06 14_49_32-Window](https://github.com/user-attachments/assets/e8611aa6-626e-41f3-97aa-5c9e7e38b8fa)
+
+- On the next window, I'll leave everything as is, and click `Next`
+
+  ![2025-01-06 14_51_31-Window](https://github.com/user-attachments/assets/7d58a234-df62-40b7-9254-1ca066238c9d)
+
+- Input a password, then click `Next`
+
+  ![2025-01-06 14_53_48-Window](https://github.com/user-attachments/assets/cde5b353-c912-49f8-8838-a8f60a243ff2)
+
+- Click `Execute`, once it's complete, click `Finish`.
+
+  ![2025-01-06 14_55_38-Window](https://github.com/user-attachments/assets/72255ef1-6922-4158-bec4-630fbe1dd0f7)
+  ![2025-01-06 14_56_14-Window](https://github.com/user-attachments/assets/60ba0419-10af-4600-ad6c-6c6e6528ed91)
 
 
 </details>
