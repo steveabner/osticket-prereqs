@@ -3,17 +3,19 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This tutorial provides a step-by-step guide to setting up an Azure Virtual Machine, configuring the prerequisites, and installing osTicket, an open-source help desk ticketing system.<br />
+This project involves configuring all the prerequisites and installing osTicket. The setup was completed on a Windows 10 Virtual Machine that I created in Azure.<br />
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+- Microsoft Azure
+- Virtual Machines
 - Remote Desktop
+- MySQL
 - Internet Information Services (IIS)
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10 Pro </b> (22H2), at least 2vCPUs, 8GB RAM
+- Windows 10
 
 <h2>List of Prerequisites</h2>
 
