@@ -45,7 +45,7 @@ This project involves configuring all the prerequisites and installing osTicket.
 
 - And finally, click `Create` again.
 
-  ![2025-01-06 11_29_05-Window](https://github.com/user-attachments/assets/fe104b1a-48d7-491a-8590-4e160e6d55d6)
+  ![2025-01-06 11_29_05-Window](https://github.com/user-attachments/assets/74840e04-9959-4307-9a63-2a1ee6f5a151)
 
 - The Resource Group has been created. In the next section, I will set up the virtual machine.
 
