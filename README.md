@@ -129,7 +129,6 @@ For this section, I downloaded a zip file that contains all the required install
 
 <details>
   <summary>⚙️ Install PHP Manager & Rewrite Module</summary>
-</details>
 
 - Within the installation folder, I'll install PHPManger. `PHPManagerForIIS_V1.5.0`
 
