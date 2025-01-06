@@ -4,6 +4,7 @@
 
 <h1>osTicket - Prerequisites and Installation</h1>
 This project involves configuring all the prerequisites and installing osTicket. The setup was completed on a Windows 10 Virtual Machine that I created in Azure.<br />
+
 - You can find the installation files use in this project <a href= https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD>here</a>
 
 <h2>Environments and Technologies Used</h2>
