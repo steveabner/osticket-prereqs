@@ -112,10 +112,36 @@ This project involves configuring all the prerequisites and installing osTicket.
 </details>
 
 ## 🎫 osTicket Installation Steps
-For this section, I have downloaded a zip file that contains all the installation files required for osTicket, The installation zip can be found <a href="https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD" target="_blank">here</a>.
+For this section, I downloaded a zip file that contains all the required installation files and then simply extracted the folder onto the desktop. The installation zip can be found <a href="https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD" target="_blank">here</a>.
 
 <details>
-  <summary>⚙️ Configure ISS</summary>
+  <summary>⚙️ Install / Enable Internet Information Services (IIS) with CGI</summary>
 
-  - 
+- To enable IIS, navigate to `Control Panel` -> `Programs` -> `Programs and Features`. Then click `Turn windows features on or off`
+
+  ![2025-01-06 13_24_23-Window](https://github.com/user-attachments/assets/cc6e340c-cc45-429f-9cc0-ed4709f51623)
+
+- Select `Internet Information Services` then expand it and navigate to `World Wide Web Services` -> `Application Development Features` and check `CGI`. Then click `OK`. When the installation completes, click `Close`
+
+  ![2025-01-06 13_33_08-Window](https://github.com/user-attachments/assets/03eb17c6-727b-4b31-83a0-636b65e0c3e8)
+
+<details>
+  <summary>⚙️ Install PHP Manager & Rewrite Module</summary>
+</details>
+
+- Within the installation folder, I'll install PHPManger. `PHPManagerForIIS_V1.5.0`
+
+  ![2025-01-06 13_46_32-Window](https://github.com/user-attachments/assets/beec8a99-f728-4f74-855d-6532c91c28b5)
+  ![2025-01-06 13_46_54-Window](https://github.com/user-attachments/assets/43a4f112-9bf8-46fe-b4ff-fdde1c5b76b2)
+
+- Then I'll install the Rewrite Module. `rewrite_amd64_en-US`
+  
+  ![2025-01-06 13_54_33-Window](https://github.com/user-attachments/assets/b9440967-634d-44e4-b818-c4ddafe5315e)
+
+</details>
+
+
+
+
+  
 </details>
