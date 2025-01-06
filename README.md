@@ -138,6 +138,7 @@ For this section, I downloaded a zip file that contains all the required install
 - Then I'll install the Rewrite Module. `rewrite_amd64_en-US`
   
   ![2025-01-06 13_54_33-Window](https://github.com/user-attachments/assets/b9440967-634d-44e4-b818-c4ddafe5315e)
+  ![2025-01-06 13_59_22-Window](https://github.com/user-attachments/assets/08234180-4022-48ba-aac7-f2e70a5ecdfb)
 
 </details>
 
