@@ -249,3 +249,31 @@ For this section, I downloaded a zip file that contains all the required install
   ![2025-01-06 15_50_49-Window](https://github.com/user-attachments/assets/d16cf2a8-273e-4b9a-abd1-fdb39d807838)
 
 </details>
+
+<details>
+  <summary>7️⃣ ⚙️ Install osTicket</summary>
+
+- Within the installation folder, I'll extract `osTicket-v1.15.8`, then open the folder.
+
+  ![2025-01-06 16_04_12-Window](https://github.com/user-attachments/assets/20360c1f-74e0-4a2c-9390-48de67a2a96c)
+  ![2025-01-06 16_07_02-Window](https://github.com/user-attachments/assets/69fc5dc5-9a03-4990-98e5-3d4841d6fd71)
+
+- In a separate window, I'll navigate to `C:\inetpub\wwwroot`
+
+  ![2025-01-06 16_08_21-Window](https://github.com/user-attachments/assets/13538105-3420-45a0-8d03-1e1e9d31a87a)
+
+- From here, I need to copy the `upload` folder into the `wwwroot` folder.
+
+  ![2025-01-06 16_11_16-Window](https://github.com/user-attachments/assets/f4c6fb67-945d-4fc4-8525-6e4aee8d2ecc)
+
+- Now I'll rename the `upload` folder to `osTicket`
+
+  ![2025-01-06 16_12_17-Window](https://github.com/user-attachments/assets/b969b9e2-8694-4422-9d54-446a56e050d9)
+
+- Now I'll reload the IIS server by right-clicking `osticket-vm` on the top-left and selecting `Stop`, then right-click again and selecting `Start`
+
+  ![2025-01-06 15_51_12-Window](https://github.com/user-attachments/assets/79d3328b-2c42-4a29-b63f-352ceee690c7)
+  ![2025-01-06 15_50_49-Window](https://github.com/user-attachments/assets/d16cf2a8-273e-4b9a-abd1-fdb39d807838)
+
+
+</details>
