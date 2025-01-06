@@ -26,10 +26,10 @@ This project involves configuring all the prerequisites and installing osTicket.
 - <b>HeidiSQL</b> - interface for accessing MySQL 
 
 
-## Installation
+## Create a Resource Group and Azure Virtual Machine
 
 <details>
-  <summary>Create a Resource Group and Azure Virtual Machine</summary>
+  <summary>Resource Group and Virtual Machine </summary>
 
 - I'll navigate to the Azure Portal and click or search for `Resource Groups`
 
