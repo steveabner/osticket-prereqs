@@ -218,3 +218,34 @@ For this section, I downloaded a zip file that contains all the required install
 
 
 </details>
+
+<details>
+  <summary>⚙️ Configure PHP</summary>
+
+### Open IIS as Admin
+
+- Click start, then type `IIS`, right click `Internet Information Services (IIS)`, then select `Run as administrator`
+
+  ![2025-01-06 15_40_56-Window](https://github.com/user-attachments/assets/7d48542f-50d3-411a-a918-8215892e52b5)
+
+### Register PHP from within IIS
+
+- Within IIS, open `PHP Manger`
+
+  ![2025-01-06 15_44_17-Window](https://github.com/user-attachments/assets/87e9cdf4-f5fe-476b-ad7b-cd59b10b1ec8)
+
+- In PHP Manager, click `Register new PHP version`
+
+  ![2025-01-06 15_45_39-Window](https://github.com/user-attachments/assets/d4130330-8070-4c89-bdfc-9dc9b6c236f6)
+
+- Browse to `C:\PHP\php-cgi.exe`, then click `OK`
+
+  ![2025-01-06 15_47_49-Window](https://github.com/user-attachments/assets/0e551cb6-1bc0-4236-87d5-975aed3eaaf4)
+  ![2025-01-06 15_48_06-Window](https://github.com/user-attachments/assets/88558984-c733-49a8-bf90-4ed0979af190)
+
+- Reload IIS by right-clicking `osticket-vm` on the top-left and selecting `Stop`, then right-click again and select `Start`
+
+  ![2025-01-06 15_51_12-Window](https://github.com/user-attachments/assets/79d3328b-2c42-4a29-b63f-352ceee690c7)
+  ![2025-01-06 15_50_49-Window](https://github.com/user-attachments/assets/d16cf2a8-273e-4b9a-abd1-fdb39d807838)
+
+</details>
