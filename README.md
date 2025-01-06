@@ -222,7 +222,7 @@ For this section, I downloaded a zip file that contains all the required install
 <details>
   <summary>6️⃣ ⚙️ Configure PHP</summary>
 
-### Open IIS as Admin
+### Open IIS and run as Administrator
 
 - Click start, then type `IIS`, right click `Internet Information Services (IIS)`, then select `Run as administrator`
 
