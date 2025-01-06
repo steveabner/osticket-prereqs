@@ -109,9 +109,8 @@ This project involves configuring all the prerequisites and installing osTicket.
 
   ![2025-01-06 13_02_47-Window](https://github.com/user-attachments/assets/f1eeecb0-1463-424c-99fd-918f923e5895)
 
-
-
 </details>
+
 ## 🎫 osTicket Installation Steps
 
 <details>
