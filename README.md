@@ -115,7 +115,7 @@ This project involves configuring all the prerequisites and installing osTicket.
 For this section, I downloaded a zip file that contains all the required installation files and then simply extracted the folder onto the desktop. The installation zip can be found <a href="https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD" target="_blank">here</a>.
 
 <details>
-  <summary>⚙️ Install / Enable Internet Information Services (IIS) with CGI</summary>
+  <summary>1️⃣ ⚙️ Install / Enable Internet Information Services (IIS) with CGI</summary>
 
 - To enable IIS, navigate to `Control Panel` -> `Programs` -> `Programs and Features`. Then click `Turn windows features on or off`
 
@@ -128,7 +128,7 @@ For this section, I downloaded a zip file that contains all the required install
 </details>
 
 <details>
-  <summary>⚙️ Install PHP Manager & Rewrite Module</summary>
+  <summary>2️⃣ ⚙️ Install PHP Manager & Rewrite Module</summary>
 
 - Within the installation folder, I'll install PHPManger. `PHPManagerForIIS_V1.5.0`
 
@@ -143,7 +143,7 @@ For this section, I downloaded a zip file that contains all the required install
 </details>
 
 <Details>
-  <Summary>📁 Create the directory C:\PHP</Summary>
+  <Summary>3️⃣ 📁 Create the directory C:\PHP</Summary>
 
 - Open File Explorer, click `This PC`, then open `C drive`
 
@@ -165,7 +165,7 @@ For this section, I downloaded a zip file that contains all the required install
 </Details>
 
 <details>
-  <summary>⚙️ Install Microsoft Visual C++ Redistibutable</summary>
+  <summary>4️⃣ ⚙️ Install Microsoft Visual C++ Redistibutable</summary>
 
 - Within the installation folder, I'll open `VC_redist.x86`
 
@@ -178,7 +178,7 @@ For this section, I downloaded a zip file that contains all the required install
 </details>
 
 <details>
-  <summary>⚙️ Install MySQL</summary>
+  <summary>5️⃣ ⚙️ Install MySQL</summary>
 
 - Within the installation folder, I'll open `mysql-5.5.62-win32`
 
@@ -220,7 +220,7 @@ For this section, I downloaded a zip file that contains all the required install
 </details>
 
 <details>
-  <summary>⚙️ Configure PHP</summary>
+  <summary>6️⃣ ⚙️ Configure PHP</summary>
 
 ### Open IIS as Admin
 
