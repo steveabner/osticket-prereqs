@@ -27,4 +27,4 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 <p>
 Once the Windows 10 VM has been set up in Azure, log into the machine with your credentials. It is best to create a notepad and save a copy of any credentials used along the way for this lab, as there'll be many.
-Within the VM, open the Microsoft Edge web browser and download the osTicket Installation Files <a href= https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD>Here</a>. Extract the files and you should see the following.
+Within the VM, open the Microsoft Edge web browser and download the osTicket Installation Files <a href= https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD>HERE</a>. Extract the files and you should see the following.
