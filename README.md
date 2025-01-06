@@ -198,7 +198,7 @@ For this section, I downloaded a zip file that contains all the required install
 
   ![2025-01-06 14_47_24-Window](https://github.com/user-attachments/assets/37361e27-0403-40ea-aa9f-fe0359b9a0bc)
 
-- When the installation wizard appears, click `Next`, then choose `Stand Configuration`, then click `Next`
+- When the installation wizard opens, click `Next`, then choose `Stand Configuration`, then click `Next`
 
   ![2025-01-06 14_49_17-Window](https://github.com/user-attachments/assets/2a6f5fdf-ace6-4698-8ceb-ed7916ace04f)
   ![2025-01-06 14_49_32-Window](https://github.com/user-attachments/assets/e8611aa6-626e-41f3-97aa-5c9e7e38b8fa)
