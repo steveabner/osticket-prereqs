@@ -162,6 +162,19 @@ For this section, I downloaded a zip file that contains all the required install
   ![2025-01-06 14_19_45-Window](https://github.com/user-attachments/assets/23f3e116-faf3-41df-944b-8e3ded955bdd)
   ![2025-01-06 14_22_18-Window](https://github.com/user-attachments/assets/90998ab4-b60a-47c6-aa60-81588fa2ff13)
 
-
-
 </Details>
+
+<details>
+  <summary>⚙️ Install Microsoft Visual C++ Redistibutable</summary>
+
+- Within the installation folder, I'll open `VC_redist.x86`
+
+  ![2025-01-06 14_34_00-Window](https://github.com/user-attachments/assets/c8ec1459-103f-453f-be8e-e652df7e5af3)
+
+- Click `I Agree` then `Install`
+
+  ![2025-01-06 14_34_29-Window](https://github.com/user-attachments/assets/26f9fb45-7eb2-45a5-87ef-bb48a86407ab)
+
+
+
+</details>
