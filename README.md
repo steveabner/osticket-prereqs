@@ -32,6 +32,7 @@
 
 <h3>💻 Azure Resource Group and Virtual Machine Setup</h3>
 
+<p><strong>⬇️ Click to Expand ⬇️</strong></p>
 <details>
   <summary>📦 Creating the Resource Group</summary>
   <p>I'll navigate to the Azure Portal and click or search for `Resource Groups`.</p>
@@ -84,6 +85,7 @@
 <h3>🎫 osTicket Installation Steps</h3>
 <p>For this section, I downloaded a zip file that contains all the required installation files and then simply extracted the folder onto the desktop. The installation zip can be found <a href="https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD" target="_blank">here</a>.</p>
 
+<p><strong>⬇️ Click to Expand ⬇️</strong></p>
 <details>
   <summary>⚙️ Install / Enable Internet Information Services (IIS) with CGI</summary>
   <p>To enable IIS, navigate to `Control Panel` -> `Programs` -> `Programs and Features`. Then click `Turn windows features on or off`.</p>
