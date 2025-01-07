@@ -30,7 +30,7 @@
 
 ---
 
-<h3>💻 Azure Resource Group and Virtual Machine Setup</h3>
+<h2>💻 Azure Resource Group and Virtual Machine Setup</h2>
 
 <p><strong>⬇️ Click to Expand ⬇️</strong></p>
 <details>
