@@ -82,7 +82,7 @@
 
 ---
 
-<h3>🎫 osTicket Installation Steps</h3>
+<h2>🎫 osTicket Installation Steps</h2>
 <p>For this section, I downloaded a zip file that contains all the required installation files and then simply extracted the folder onto the desktop. The installation zip can be found <a href="https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD" target="_blank">here</a>.</p>
 
 <p><strong>⬇️ Click to Expand ⬇️</strong></p>
