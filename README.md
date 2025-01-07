@@ -77,6 +77,8 @@
   <img src="https://github.com/user-attachments/assets/a14f14e0-09e8-47dc-a43b-1b3aeee4de06" alt="VM Logged In"/>
 </details>
 
+---
+
 <h3>🎫 osTicket Installation Steps</h3>
 <p>For this section, I downloaded a zip file that contains all the required installation files and then simply extracted the folder onto the desktop. The installation zip can be found <a href="https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD" target="_blank">here</a>.</p>
 
