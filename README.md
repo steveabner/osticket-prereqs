@@ -158,3 +158,7 @@
   <li>Integrate other systems or tools as needed</li>
 </ul>
 <p>In the future, I plan to experiment with additional customizations, such as integrating osTicket with a knowledge base or automating ticket workflows.</p>
+
+<h3>➡️ Continue to My Next Project</h3>
+<p>To continue with my next project, check out the <a href="https://github.com/steveabner/post-install-config" target="_blank">Post Install Configuration</a> repository on GitHub.</p>
+
