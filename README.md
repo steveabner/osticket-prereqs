@@ -147,6 +147,8 @@
   <img src="https://github.com/user-attachments/assets/c2833b19-9c07-4421-bf0f-8a01d0a69a5a" alt="osTicket Admin Panel"/>
 </details>
 
+---
+
 <h3>🎉 Completion and Next Steps</h3>
 <p>Now that osTicket is up and running, I can start configuring the helpdesk system to suit my needs. From here, I can:</p>
 <ul>
