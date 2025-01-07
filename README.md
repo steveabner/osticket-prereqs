@@ -31,7 +31,7 @@
 <h3>💻 Azure Resource Group and Virtual Machine Setup</h3>
 
 <details>
-  <summary>1️⃣ 📦 Creating the Resource Group</summary>
+  <summary>📦 Creating the Resource Group</summary>
   <p>I'll navigate to the Azure Portal and click or search for `Resource Groups`.</p>
   <img src="https://github.com/user-attachments/assets/c5d5eee0-7df2-4cf4-9a71-396e7c7ebb89" alt="Creating Resource Group"/>
   <p>On the Resource Group page I'll click `Create` at the top-left.</p>
@@ -44,7 +44,7 @@
 </details>
 
 <details>
-  <summary>2️⃣ 💻 Creating the Virtual Machine</summary>
+  <summary>💻 Creating the Virtual Machine</summary>
   <p>On the Azure Portal, I'll search for `Virtual Machines`.</p>
   <img src="https://github.com/user-attachments/assets/7b49b5b6-0448-48ad-9a98-740b48903939" alt="Searching for Virtual Machines"/>
   <p>On the Virtual Machine page, I'll click `Create` on the top-left, then select `Azure Virtual Machine`.</p>
@@ -62,7 +62,7 @@
 </details>
 
 <details>
-  <summary>3️⃣ 💻 Connect to the VM via RDP</summary>
+  <summary>💻 Connect to the VM via RDP</summary>
   <p>Now that the VM has been created, I'll connect to it using RDP. To do this, I need the Public IP Address. In the Azure Portal, navigate to Virtual Machines, select `osticket-vm`, and copy the Public IP Address.</p>
   <img src="https://github.com/user-attachments/assets/0acc73fc-c07d-412f-a6ad-708f9902ab3a" alt="Copying Public IP Address"/>
   <p>On my Host Machine, I'll click `Start` and type `Remote Desktop`, then click `Remote Desktop Connection`.</p>
@@ -81,7 +81,7 @@
 <p>For this section, I downloaded a zip file that contains all the required installation files and then simply extracted the folder onto the desktop. The installation zip can be found <a href="https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD" target="_blank">here</a>.</p>
 
 <details>
-  <summary>1️⃣ ⚙️ Install / Enable Internet Information Services (IIS) with CGI</summary>
+  <summary>⚙️ Install / Enable Internet Information Services (IIS) with CGI</summary>
   <p>To enable IIS, navigate to `Control Panel` -> `Programs` -> `Programs and Features`. Then click `Turn windows features on or off`.</p>
   <img src="https://github.com/user-attachments/assets/cc6e340c-cc45-429f-9cc0-ed4709f51623" alt="IIS Setup"/>
   <p>Select `Internet Information Services` then expand it and navigate to `World Wide Web Services` -> `Application Development Features` and check `CGI`. Then click `OK`. When the installation completes, click `Close`.</p>
@@ -89,7 +89,7 @@
 </details>
 
 <details>
-  <summary>2️⃣ ⚙️ Install PHP for IIS</summary>
+  <summary>⚙️ Install PHP for IIS</summary>
   <p>I'll need to install PHP for IIS so osTicket can run correctly. To do this, I'll navigate to the <a href="https://windows.php.net/download" target="_blank">PHP downloads page</a> and download the latest PHP version compatible with IIS (usually the "Non Thread Safe" version).</p>
   <img src="https://github.com/user-attachments/assets/4a517a4d-24db-4a0f-9394-aba34a870404" alt="Downloading PHP for IIS"/>
   <p>Once downloaded, I'll extract the contents to a folder, e.g., `C:\PHP`. Then, I need to configure IIS to recognize PHP.</p>
@@ -107,7 +107,7 @@
 </details>
 
 <details>
-  <summary>3️⃣ ⚙️ Install MySQL</summary>
+  <summary>⚙️ Install MySQL</summary>
   <p>Next, I'll install MySQL to manage the database for osTicket. To do this, I'll navigate to the <a href="https://dev.mysql.com/downloads/installer/" target="_blank">MySQL Installer page</a> and download the installer.</p>
   <img src="https://github.com/user-attachments/assets/1b3d2786-149d-45a5-b2b1-bcd9b15c712b" alt="Downloading MySQL Installer"/>
   <p>After downloading, I'll run the installer and choose the `Server Only` option. I'll follow the installation wizard's prompts, setting up a root password when asked. After the installation is complete, I'll finish the setup process and start the MySQL service.</p>
@@ -124,7 +124,7 @@
 </details>
 
 <details>
-  <summary>4️⃣ ⚙️ Configure osTicket</summary>
+  <summary>⚙️ Configure osTicket</summary>
   <p>Now, I’ll configure osTicket. I’ll begin by extracting the osTicket zip file into the folder `C:\inetpub\wwwroot` on the virtual machine.</p>
   <img src="https://github.com/user-attachments/assets/dc7e6a5f-6bbd-41c6-b7a0-d88136501b22" alt="Extracting osTicket Files"/>
   <p>Then, I’ll navigate to `http://localhost` in my browser, which will trigger the osTicket installer.</p>
@@ -136,7 +136,7 @@
 </details>
 
 <details>
-  <summary>5️⃣ ⚙️ Finalize osTicket Installation</summary>
+  <summary>⚙️ Finalize osTicket Installation</summary>
   <p>Once the configuration steps are complete, I’ll click `Finish` to complete the installation process.</p>
   <img src="https://github.com/user-attachments/assets/7432f78e-b9b0-45d2-835f-d0b8e44f46e3" alt="Finishing Installation"/>
   <p>At this point, osTicket should be fully installed, and I can log into the admin panel using the username and password I set during the installation process.</p>
