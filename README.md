@@ -28,6 +28,8 @@
   <li><b>HeidiSQL</b> - interface for accessing MySQL</li>
 </ul>
 
+---
+
 <h3>💻 Azure Resource Group and Virtual Machine Setup</h3>
 
 <details>
