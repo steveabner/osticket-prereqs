@@ -5,7 +5,7 @@
 <h2>osTicket - Prerequisites and Installation</h2>
 <p>This project involves configuring all the prerequisites and installing osTicket. The setup was completed on a Windows 10 Virtual Machine that I created in Azure. You can find the installation files used in this project <a href="https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD">here</a>.</p>
 
-<h2>Environments and Technologies Used</h2>
+<h2>💻 Environments and Technologies Used</h2>
 <ul>
   <li>Microsoft Azure</li>
   <li>Virtual Machines</li>
@@ -19,7 +19,7 @@
   <li>Windows 10</li>
 </ul>
 
-<h2>List of Prerequisites</h2>
+<h2>📝 List of Prerequisites</h2>
 <ul>
   <li><b>PHP manager for IIS</b> - ensures PHP is correctly configured to run IIS</li>
   <li><b>Rewrite module</b> - facilitates URL rewriting and redirect users to URLs</li>
